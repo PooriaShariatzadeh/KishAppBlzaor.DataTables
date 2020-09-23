@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
+    <Authors>Pooria Shariatzadeh</Authors>
+    <Description>DataTables.Net Blazor Component</Description>
   </PropertyGroup>
 
   <ItemGroup>
