@@ -27,6 +27,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.13.0\\dpl": {},
           "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.13.0\\packages": {},
+          "D:\\KishAppBlazor\\KishAppBlazor.DataTables\\bin\\Release": {},
           "D:\\NugetCracked": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -44,13 +45,9 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.Components": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[3.1.7, )"
+              "version": "[3.1.8, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

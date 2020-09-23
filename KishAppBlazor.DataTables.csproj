@@ -5,16 +5,20 @@
     <RazorLangVersion>3.0</RazorLangVersion>
     <Authors>Pooria Shariatzadeh</Authors>
     <Description>DataTables.Net Blazor Component</Description>
+    <PackageProjectUrl>https://github.com/PooriaShariatzadeh/KishAppBlzaor.DataTables</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/PooriaShariatzadeh/KishAppBlzaor.DataTables</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright></Copyright>
   </PropertyGroup>
 
   <ItemGroup>
     <Content Include="Enums\Languages.cs" />
   </ItemGroup>
 
-
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components" Version="3.1.7" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="3.1.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="3.1.8" />
   </ItemGroup>
 
 </Project>
