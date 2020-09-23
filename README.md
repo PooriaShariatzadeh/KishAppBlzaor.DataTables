@@ -12,7 +12,13 @@ For client-side and server-side Blazor - add script section to index.html or _Ho
 <script src="_content/KishAppBlazor.DataTables/datatables.min.js"></script>
 <link href="_content/KishAppBlazor.DataTables/datatables.min.css" rel="stylesheet" />
 ```
+Import the components:
 
+Add the following using statement @using KishAppBlzaor.DataTables to one of the following:
+
+For global import add it to your _Imports.razor file
+
+For a scoped import add it to your desired Blazor component
 
 ## Usage
 
